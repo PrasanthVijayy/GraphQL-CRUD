@@ -1,3 +1,4 @@
+// index page setup
 import express from 'express';
 import dotenv from 'dotenv';
 import { createHandler } from 'graphql-http/lib/use/express';
